@@ -1,3 +1,6 @@
+// everything is object
+// developer.apple.com/documentation/swift/int
+
 var n1 = -10 // Int
 
 print(n1)   // -10
